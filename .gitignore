@@ -1,0 +1,158 @@
+# Simulation artifacts
+*.vvp
+*.vcd
+*.wdb
+*.wdsr
+*.shm
+*.shd
+*.trn
+*.fsdb
+*.evcd
+
+# Compilation and build outputs
+*.o
+*.so
+*.a
+*.lib
+*.exe
+*.out
+*.pyc
+*.pyo
+
+# Vivado and Quartus generated files
+.Xil/
+vivado*.log
+vivado*.jou
+*.runs/
+*.gen/
+.vivado/
+db/
+incremental_db/
+simulation/
+output_files/
+
+# ModelSim/QuestaSim files
+work/
+*.wlf
+*.rpt
+*.rpt.*
+*.vcd
+*.vcdplus
+*.shm/
+modelsim.ini
+_info
+_primary.vhd
+*.mti
+
+# Xsim files
+.Xsim/
+xsim.dir/
+xvhdl.log
+xvlog.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.bak
+*.tmp
+*.backup
+
+# Python cache and virtual environments
+__pycache__/
+.python-version
+venv/
+env/
+
+# Documentation build artifacts
+docs/_build/
+*.pdf
+*.epub
+
+# System files
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.temp
+*.tmp
+.tmp/
+
+# EDA tool specific
+.lsf/
+nohup.out
+
+# TCL history
+.tclsh_history
+tcl_command_history
+
+# Synthesis reports
+*.rpt
+*.rap
+*.twr
+*.twx
+
+# Place and Route
+*.ncd
+*.ngd
+*.bgn
+*.bld
+*.mrp
+*.par
+
+# Timing simulation
+*.sdf
+*.spf
+
+# Xilinx ISE
+_xmsgs/
+iseconfig/
+*.ise
+*.gise
+
+# Altera/Intel Quartus
+*.qsf
+*.qpf
+*.bsf
+*.pin
+*.pd
+*.ptf
+
+# User-specific files
+.project
+.cproject
+.settings/
+
+# Build directories
+build/
+bin/
+dist/
+target/
+
+# Log files
+*.log
+logs/
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Backup files
+*.orig
+*.backup.*
+
+# License files (if using templates, add to git manually)
+# LICENSE
+
+# Documentation (if using auto-generated docs)
+# docs/generated/
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
